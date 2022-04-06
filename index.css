@@ -1,0 +1,18 @@
+.banner {
+    background-color: #4D00FF;
+    color: white;
+    margin-top: 75px;
+    text-align: center;
+    padding: 100px 0;
+}
+#baka-photo {
+    width: 400px;
+    height: auto;
+}
+#media {
+    color: #4D00FF;
+    font-size: 80px;
+}
+.bold {
+    font-weight: 800;
+}
